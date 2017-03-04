@@ -1,0 +1,13 @@
+&easecfg
+
+        region = 'M'
+        res = 'l'
+        numrows = 586
+        numcols = 1383 
+        tolatlon = .true.
+     !   latfile = ''
+     !   lonfile = ''
+     !   outlat = ''
+     !   outlon = ''
+
+/
